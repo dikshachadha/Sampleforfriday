@@ -13,6 +13,7 @@ package ca.sheridancollege.week1.softwarefundamentals;
  * @author dancye May 7, 2018
  * Modified by Diksha
  * push operation
+ * showing you the change on netbeans and pushing to Github
  */
 public class Student 
 {
