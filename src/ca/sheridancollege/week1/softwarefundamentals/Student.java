@@ -14,6 +14,7 @@ package ca.sheridancollege.week1.softwarefundamentals;
  * Modified by Diksha
  * push operation
  * showing you the change on netbeans and pushing to Github
+ changing the file on remte or on github
  */
 public class Student 
 {
